@@ -3,7 +3,6 @@
     "action": "remove",
     "files": [
       "app/.gitkeep",
-      "assets/.gitkeep",
       "components/.gitkeep",
       "config/.gitkeep",
       "hooks/.gitkeep",
